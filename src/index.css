@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tambahan optional biar font default lebih enak */
+body {
+  @apply bg-gray-50 text-gray-900;
+}

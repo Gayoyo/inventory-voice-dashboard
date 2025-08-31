@@ -1,0 +1,7 @@
+{
+  "inventory": [
+    { "id": 1, "product": "Aqua", "location": "Gudang A", "qty": 10 },
+    { "id": 2, "product": "Indomie", "location": "Gudang B", "qty": 3 },
+    { "id": 3, "product": "Laptop Asus", "location": "Gudang C", "qty": 7 }
+  ]
+}
